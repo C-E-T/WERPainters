@@ -1,0 +1,22 @@
+.top{
+	background-image : url("../images/logo.png");
+	background-repeat: repeat-x;
+	opacity: 0.85;
+	background-position: top right;
+	background-size: 200px 63px;
+	
+}
+
+h1{
+	color:red;
+	text-align: center;
+	}
+
+h2{
+	color:black;
+	text-align: center;
+	}
+
+body{
+	background-color: blue;
+}
