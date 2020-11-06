@@ -4,6 +4,7 @@
 	opacity: 0.85;
 	background-position: top right;
 	background-size: 200px 63px;
+	background-color: darkgray;
 	
 }
 
@@ -18,5 +19,5 @@ h2{
 	}
 
 body{
-	background-color: blue;
+	background-color:darkgray;
 }
