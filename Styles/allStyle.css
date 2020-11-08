@@ -1,0 +1,46 @@
+.top{
+	background-image : url("../images/logo.png");
+	background-repeat: no-repeat;
+	opacity: 0.85;
+	background-position: top left;
+	background-size: 200px 100px;
+	background-color: black;
+	
+}
+
+.nav{
+	text-align: center;
+	font-size: xx-large;
+    text-decoration: none;
+    background-color: black;
+
+}
+
+.nav a{
+	color:red;
+	text-decoration: none;
+}
+
+.nav a:hover{
+	color: indigo;
+}
+
+.nav a.active{
+	color: pink;
+
+}
+
+h1{
+	color:red;
+	text-align: center;
+	}
+
+h2{
+	color: grey;
+	text-align: center;
+	}
+
+body{
+	background-color:darkgray;
+	text-align: center;
+}
