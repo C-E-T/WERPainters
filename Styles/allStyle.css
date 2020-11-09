@@ -8,6 +8,11 @@
 	
 }
 
+.top h2{
+    color:grey;
+    text-align: center;
+}
+
 .nav{
 	text-align: center;
 	font-size: xx-large;
@@ -36,7 +41,7 @@ h1{
 	}
 
 h2{
-	color: grey;
+	color:black;
 	text-align: center;
 	}
 
