@@ -22,17 +22,16 @@
 }
 
 .nav a{
-	color:red;
+	color:white;
 	text-decoration: none;
 }
 
 .nav a:hover{
-	color: indigo;
+	text-decoration: underline;
 }
 
-.nav a.active{
-	color: pink;
-
+.nav a .services{
+	
 }
 
 h1{
@@ -46,6 +45,16 @@ h2{
 	}
 
 body{
-	background-color:darkgray;
+	background-color:white;
 	text-align: center;
+}
+
+.footerimg{
+	height:25px;
+	width:25px;
+}
+
+footer{
+	background-color: black;
+	color: white;
 }
